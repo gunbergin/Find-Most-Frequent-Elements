@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pro2877\\source\\repos\\Top K words\\Top K words\\Top K words.csproj",
+      "projectUniqueName": "C:\\Users\\pro2877\\source\\repos\\Top K words\\Find-Most-Frequent-Elements\\Top K words\\Top K words.csproj",
       "projectName": "Top K words",
-      "projectPath": "C:\\Users\\pro2877\\source\\repos\\Top K words\\Top K words\\Top K words.csproj",
+      "projectPath": "C:\\Users\\pro2877\\source\\repos\\Top K words\\Find-Most-Frequent-Elements\\Top K words\\Top K words.csproj",
       "packagesPath": "C:\\Users\\pro2877\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pro2877\\source\\repos\\Top K words\\Top K words\\obj\\",
+      "outputPath": "C:\\Users\\pro2877\\source\\repos\\Top K words\\Find-Most-Frequent-Elements\\Top K words\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
