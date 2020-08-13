@@ -1,0 +1,10 @@
+C:\Users\pro2877\source\repos\Top K words\Top K words\bin\Release\netcoreapp2.2\Top K words.deps.json
+C:\Users\pro2877\source\repos\Top K words\Top K words\bin\Release\netcoreapp2.2\Top K words.runtimeconfig.json
+C:\Users\pro2877\source\repos\Top K words\Top K words\bin\Release\netcoreapp2.2\Top K words.runtimeconfig.dev.json
+C:\Users\pro2877\source\repos\Top K words\Top K words\bin\Release\netcoreapp2.2\Top K words.dll
+C:\Users\pro2877\source\repos\Top K words\Top K words\bin\Release\netcoreapp2.2\Top K words.pdb
+C:\Users\pro2877\source\repos\Top K words\Top K words\obj\Release\netcoreapp2.2\Top K words.csproj.CoreCompileInputs.cache
+C:\Users\pro2877\source\repos\Top K words\Top K words\obj\Release\netcoreapp2.2\Top K words.AssemblyInfoInputs.cache
+C:\Users\pro2877\source\repos\Top K words\Top K words\obj\Release\netcoreapp2.2\Top K words.AssemblyInfo.cs
+C:\Users\pro2877\source\repos\Top K words\Top K words\obj\Release\netcoreapp2.2\Top K words.dll
+C:\Users\pro2877\source\repos\Top K words\Top K words\obj\Release\netcoreapp2.2\Top K words.pdb
